@@ -1,2 +1,5 @@
-# Node_Js_Dersleri
-Node Js ile ilgili temel öğrenim
+## Node_Js_Dersleri
+---
+# Açıklama
+---
+Burada temel Node Js kavramlarını işleyeceğiz, kısa sunumlar ve kod örnekleri ile çalışacağız.
